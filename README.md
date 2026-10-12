@@ -1,4 +1,4 @@
-# Career Recommendation System using Machine Learning
+# Career Recommendation Dataset using Machine Learning
 
 The Career Recommendation System using Machine Learning is an AI-based project designed to assist individuals in making informed career decisions based on their skills and aptitude.
 
